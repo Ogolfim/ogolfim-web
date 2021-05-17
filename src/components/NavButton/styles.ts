@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
   width: 11.6rem;
   height: 2.1rem;
-  border: 2px solid var(--color-blue-light);
+  border: 2px solid var(--color-orange);
 
   cursor: pointer;
   position: relative;
@@ -28,7 +28,7 @@ export const Container = styled.div`
     height: 100%;
     position: absolute;
     top: 0rem;
-    background: var(--color-blue-light);
+    background: var(--color-orange);
       
     clip-path: circle(0% at 100% 0%);
     transition: all 0.5s ease-in-out;

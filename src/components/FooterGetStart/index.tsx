@@ -14,7 +14,7 @@ const FooterGetStart: React.FC = memo(() => (
     </p>
     <Button
       text="Iniciar Agora"
-      url="/criar-meu-software"
+      url="/iniciar"
       useClipPath={false}
     />
   </Container>

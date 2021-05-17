@@ -35,7 +35,6 @@ export default class MyDocument extends Document {
       <Html lang="pt">
         <Head>
           <meta charSet="utf-8" />
-          <meta name="robots" content="index" />
           <meta name="author" content="Arlindo Boa" />
         </Head>
         <body>

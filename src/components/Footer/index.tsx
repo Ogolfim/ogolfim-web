@@ -26,9 +26,9 @@ const Footer: React.FC = () => {
           </a>
         </Link>
 
-        <Link href="/ligue-nos">
+        <Link href="/contacts">
           <a>
-            Contacto
+            Contactos
           </a>
         </Link>
 
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         </Link>
 
         <span>
-          &copy; {new Date().getFullYear()} OGolfim - todos direitos reservados
+          &copy; {new Date().getFullYear()} Ogolfim - todos direitos reservados
         </span>
       </div>
     </Container>

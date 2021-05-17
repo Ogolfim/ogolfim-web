@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useRef } from 'react';
 import { motion, useCycle } from 'framer-motion';
 import Logo from '../../assets/images/logo';
 
@@ -52,7 +52,9 @@ const Header: React.FC = () => {
       >
         <LogoContainer>
           <Link href="/">
-            <Logo />
+            <a>
+              <Logo />
+            </a>
           </Link>
         </LogoContainer>
 
@@ -103,10 +105,10 @@ const Header: React.FC = () => {
               </Link>
             </Option>
             <Option>
-              <Link href="/ligue-nos">
+              <Link href="/contacts">
                 <a>
                   <span className="left">{'{'}</span>
-                  Contacto
+                  Contactos
                   <span className="right">{'}'}</span>
                 </a>
               </Link>

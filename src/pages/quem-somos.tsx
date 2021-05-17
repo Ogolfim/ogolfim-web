@@ -20,7 +20,7 @@ import {
   TopSpeeds
 } from '../styles/pages/home'
 
-const  Home: React.FC = () => {
+const  QuemSomos: React.FC = () => {
   return (
     <div>
       <Head>
@@ -143,4 +143,4 @@ const  Home: React.FC = () => {
   )
 }
 
-export default Home;
+export default QuemSomos;

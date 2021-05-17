@@ -29,7 +29,7 @@ const NavButton = ({text, url, useClipPath}: ButtonProps) => {
       onMouseEnter={() => setOpacity(0.8)}
       onMouseLeave={() => setOpacity(1)}
       style={{
-        background: 'var(--color-blue-light)',
+        background: 'var(--color-orange)',
         border: 'none',
         opacity: opacity,
       }}
