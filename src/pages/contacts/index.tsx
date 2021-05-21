@@ -80,7 +80,7 @@ const  Contacts: React.FC = () => {
                 Transforme a tecnologia a seu favor. Liga-nos retornamos com um plano
               </h1>
               <p>
-                Somos OGolfim. Transformamos os seus desafios mais difíceis em impacto tangível do negócio.
+                Somos Ogolfim. Transformamos os seus desafios mais difíceis em impacto tangível do negócio.
               </p>
             </TextDesktop>
             <RobotContainer>
@@ -91,7 +91,7 @@ const  Contacts: React.FC = () => {
                 Transforme a tecnologia a seu favor. Liga-nos retornamos com um plano
               </h1>
               <p>
-                Somos OGolfim. Transformamos os seus desafios mais difíceis em impacto tangível do negócio.
+                Somos Ogolfim. Transformamos os seus desafios mais difíceis em impacto tangível do negócio.
               </p>
             </TextMobile>
           </MainHeader>

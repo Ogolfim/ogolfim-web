@@ -41,7 +41,7 @@ const  Developer: React.FC = () => {
           a vencer nossos desafios e alcançar grandes ambições.
         </p>
         <p>
-          Faça parte da equipa OGolfim, vejá as vagas existentes a baixo.
+          Faça parte da equipa Ogolfim, vejá as vagas existentes a baixo.
         </p>
         <Form>
           <div>
