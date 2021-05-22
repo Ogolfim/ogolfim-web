@@ -42,7 +42,6 @@ const  Call: React.FC = () => {
     }
   }))
 
-
   const FormHandler = () => {
     api.current.post('/client', { callDate: date })
     .then(response => {

@@ -38,7 +38,7 @@ const  Home: React.FC = () => {
           software, softwares, automation, OGolfim, ogolfim, website, websites, internet, negócio, negócios, web, programador, programadores, copywriting
           "
         />
-        <title>Ogolfim</title>
+        <title>Home - Ogolfim</title>
       </Head>
 
       <Header />      

@@ -31,7 +31,7 @@ const  Start: React.FC = () => {
       service,
     })
     .then(response => {
-
+  
       setData({...data, token: response.data.token});
 
       router.push('/iniciar/empresa')
