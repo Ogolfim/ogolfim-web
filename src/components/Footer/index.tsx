@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
           +258 85 21 92 413
         </span>
         <span>
-          ogolfim@protonmail.com
+          sales@ogolfim.com
         </span>
       </div>
       <div>
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         </Link>
 
         <span>
-          &copy; {new Date().getFullYear()} Ogolfim - todos direitos reservados
+          &copy; {new Date().getFullYear()} Ogolfim, EI - todos direitos reservados
         </span>
       </div>
     </Container>

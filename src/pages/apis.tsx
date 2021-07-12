@@ -40,7 +40,7 @@ const  Apis: React.FC = () => {
           software, softwares, api, apis, automação, Ogolfim, internet, negócio, negócios, web, programador, programadores
           "
         />
-        <title>Ogolfim - Automação</title>
+        <title>Melhor Software Para Negócio</title>
       </Head>
 
       <Header />      

@@ -85,6 +85,8 @@ const  Call: React.FC = () => {
           <CalendarContainer>
             <h3><PhoneIcon />{`${weekDay} ${day} ${month} ${year}`}</h3>
             <Calendar
+              minDate={new Date}
+              locale="pt"
               className="ogolfim"
               onChange={(dade: Date) => {setDate(dade)}}
               value={date}
