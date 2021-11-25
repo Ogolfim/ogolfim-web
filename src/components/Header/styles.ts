@@ -45,12 +45,10 @@ export const Container = styled.header`
 
 export const LogoContainer = styled.div`
   > a {
+    width: 8.9rem;
     display: flex;
     flex: 1;
     align-items: center;
-  }
-  > a img {
-    width: 7rem;
   }
 `;
 
